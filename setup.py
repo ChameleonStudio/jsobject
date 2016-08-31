@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='js-object',
-    packages=['js-object'],
+    packages=['jsobject'],
     version='0.1',
     description='Makes work with JSONs as easy as eating pizza.',
     author='Daniel Omelchenko',
